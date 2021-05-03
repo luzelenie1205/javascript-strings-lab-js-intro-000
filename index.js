@@ -8,5 +8,3 @@ var topic =  "space";
 
 
 var conversation = `${topic}`;
-
-space = ()+`space`
