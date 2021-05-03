@@ -6,5 +6,7 @@ var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
 var topic =  "space";
 
-space = `space`
+
 var conversation = `${topic}`;
+
+space = `space`
